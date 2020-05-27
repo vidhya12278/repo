@@ -7,5 +7,8 @@ public class Add {
 		int c;
 		c=a+b;
 		System.out.println("print add value: " + c);
+		
+		System.out.println("here added two lines");
+		System.out.println("divya1");
 	}
 }
