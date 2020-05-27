@@ -7,5 +7,8 @@ public class Add {
 		int c;
 		c=a+b;
 		System.out.println("print add value: " + c);
+		
+		System.out.println("this is my new project");
+		System.out.println("i am going to learb conflict resolving");
 	}
 }
